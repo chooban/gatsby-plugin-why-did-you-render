@@ -1,6 +1,6 @@
 # gatsby-plugin-why-did-you-render
 
-Include the [https://github.com/welldone-software/why-did-you-render](@welldone-software/why-did-you-render) library when running `gatsby develop`.
+Include the [@welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render) library when running `gatsby develop`.
 
 ## Installation
 
