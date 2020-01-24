@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-why-did-you-render",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby plugin to include @welldone-software/why-did-you-render",
   "main": "gatsby-browser.js",
   "author": "Ross Hendry <rhendry@gmail.com>",
