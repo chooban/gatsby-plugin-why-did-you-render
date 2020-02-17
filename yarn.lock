@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@welldone-software/why-did-you-render@^3.5.0":
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/@welldone-software/why-did-you-render/-/why-did-you-render-3.5.0.tgz#41a414e90b372af73e8693e44bfdb960c4921193"
-  integrity sha512-9+WVSV8ZBb12SYu5uS4rOB5xVbW3ZpXGuAoeKlZ71oI9NrNG5X+v9WTFmoV+jKPKtlOU8dbwwDjF9GOzp7XvPQ==
+"@welldone-software/why-did-you-render@^4.0.4":
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/@welldone-software/why-did-you-render/-/why-did-you-render-4.0.4.tgz#983faef183cad5f4a8fe37e8b0f9f5622688a367"
+  integrity sha512-s5NfsRO2SEQcsnBza8as4in32cklaYtN5jkrQUY84/Y0nMuo/9ReHCXGnLLjtTrxJu/vxnDx6CVQRMEA5lwbiw==
   dependencies:
     lodash "^4"
 

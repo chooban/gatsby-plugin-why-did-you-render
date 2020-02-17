@@ -6,7 +6,7 @@
   "author": "Ross Hendry <rhendry@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@welldone-software/why-did-you-render": "^3.5.0"
+    "@welldone-software/why-did-you-render": "^4.0.4"
   },
   "keywords": [
     "gatsby",
