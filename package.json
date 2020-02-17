@@ -1,12 +1,12 @@
 {
   "name": "gatsby-plugin-why-did-you-render",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Gatsby plugin to include @welldone-software/why-did-you-render",
   "main": "gatsby-browser.js",
   "author": "Ross Hendry <rhendry@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@welldone-software/why-did-you-render": "^4.0.4"
+    "@welldone-software/why-did-you-render": "^4.2.5"
   },
   "keywords": [
     "gatsby",
